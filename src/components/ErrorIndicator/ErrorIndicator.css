@@ -1,0 +1,16 @@
+.error-indicator-img {
+	display: block;
+	max-width: 50px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+.error-indicator-title,
+.error-indicator-subtitle {
+	margin: 0;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.80);
+} 
+.error-indicator-title {
+	margin-bottom: 5px;
+	color: rgba(255, 255, 255, 0.75);
+}

@@ -1,0 +1,20 @@
+.welcome-message {
+	margin: 0 auto;
+	padding: 15px 10px;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+.welcome-message-title,
+.welcome-message-subtitle {
+	margin: 0;
+	color: rgba(255, 255, 255, 1);
+}
+.welcome-message-title {
+	margin-bottom: 10px;
+	font-size: 1.5em;
+	font-weight: normal;
+}
+.welcome-message-subtitle {
+	font-size: 1em;
+}
